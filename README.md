@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManasMahata
 -# Full Stack Web Developer | DSA Enthusiast | DBMS Expert
 
-Hello there! 👋 I'm [Your Name], a passionate Full Stack Web Developer with a strong foundation in Data Structures and Algorithms (DSA) and expertise in Database Management Systems (DBMS). Here's a glimpse into my technical prowess:
+Hello there! 👋 I'm Maans Mahata, a passionate Full Stack Web Developer with a strong foundation in Data Structures and Algorithms (DSA) and expertise in Database Management Systems (DBMS). Here's a glimpse into my technical prowess:
 
 ## 💻 Technical Skills
 - **Languages:** HTML, CSS, JavaScript (Node.js, React.js, Express.js), Python, SQL
