@@ -17,6 +17,7 @@ Hello there! 👋 I'm Maans Mahata, a passionate Full Stack Web Developer with a
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [Manas Mahaat](https://www.linkedin.com/in/manas-mahata-09bb53256/)
+- **Twitter : ** [manasmahata241](https://twitter.com/manasmahata241)
 - 
 
 ## 🤝 Let's Collaborate!
